@@ -1,3 +1,29 @@
+# Tugas PBKK CRUD
+### Putu Ananda Satria Adi
+### 05111940000113  
+
+## Create
+### Mengisi formulir tambah film
+![Screenshot 2022-04-19 101448](https://user-images.githubusercontent.com/57354564/163913503-259bb2fe-887d-49fa-a308-3c0d1b2dae61.png)
+
+### Hasil pada halaman list film
+![Screenshot_85](https://user-images.githubusercontent.com/57354564/163913520-8c1b0ba6-2723-4f2f-bf9b-19c8ebbe1c2a.png)
+
+## Update
+### Mengisi formulir edit/update film
+![Screenshot_86](https://user-images.githubusercontent.com/57354564/163913532-43761029-a3bf-4d4d-8a7a-5b299d62dafc.png)
+
+### Hasil pada halaman list film
+![Screenshot_87](https://user-images.githubusercontent.com/57354564/163913534-c401e7bd-fbb5-4b24-a8f0-999ebbded9bc.png)
+
+## Read
+### Halaman detail film
+![Screenshot_88](https://user-images.githubusercontent.com/57354564/163913538-9d9f9d32-097a-4d2e-8c49-ec61e51404aa.png)
+
+## Delete
+### Tampilan setelah film dihapus
+![Screenshot_89](https://user-images.githubusercontent.com/57354564/163913544-31f49d81-dfcc-4de7-9544-2d94d75e504e.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
